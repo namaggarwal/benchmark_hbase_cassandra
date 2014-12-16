@@ -40,3 +40,5 @@ Modified pom.xml inside YCSB/hbase folder.
 
 10. Folder Graphs
 This folder contains the graphs generated as part of the project.
+
+You can find the report here http://namaggarwal.github.io/benchmark_hbase_cassandra/report_benchmark.pdf
