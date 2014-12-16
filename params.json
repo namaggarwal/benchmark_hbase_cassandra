@@ -1,0 +1,1 @@
+{"name":"Benchmark hbase cassandra","tagline":"Scripts to benchmark HBase and Cassandra using YCSB.","body":"benchmark_hbase_cassandra\r\n=========================\r\n\r\nScripts to benchmark HBase and Cassandra using YCSB.\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
