@@ -1,0 +1,1 @@
+nohup ./bin/ycsb load hbase -P workloads/workloada -p recordcount=25000000 -p fieldcount=20 -p fieldlength=204 -s &> hbaseloading.out </dev/null &

@@ -1,0 +1,1 @@
+nohup ./bin/ycsb load cassandra-10 -P workloads/workloada -p hosts=compg0,compg1,compg2 -p recordcount=25000000 -p fieldcount=20 -p fieldlength=204 -s &> cassandraloading.out </dev/null &
